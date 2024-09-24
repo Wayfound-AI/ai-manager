@@ -1,0 +1,19 @@
+{
+  "name": "ai-manager",
+  "version": "1.0.0",
+  "description": "Level up your agents with Wayfound the AI management platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wayfound-AI/ai-manager.git"
+  },
+  "author": "Wayfound",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wayfound-AI/ai-manager/issues"
+  },
+  "homepage": "https://github.com/Wayfound-AI/ai-manager#readme"
+}
